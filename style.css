@@ -1,0 +1,42 @@
+body{
+	background-color:#6073A6;
+}
+.row{
+	margin-left:40px;
+	margin-right:40px;
+	margin-top: 40px;
+}
+h2,h3,p,li{
+	font-family:"Poppins", sans-serif;
+	font-weight: normal;
+}
+h1{
+	font-size:30px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: "Oswald",sans-serif;
+	line-height: 200%;
+}
+h2{
+	font-size: 25px;
+}
+h3{
+	font-size: 20px;
+	
+}
+p,li{
+	font-size: 18px;
+	line-height:175%;
+}
+
+a:link {
+  color: white;
+}
+
+a:hover {
+  color: pink;
+}
+a:active {
+	color:orange;
+}
+
